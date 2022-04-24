@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Frantomapa Organisation
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
