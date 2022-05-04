@@ -3,7 +3,7 @@ title: "Frantomapa Educational Aid"
 subtitle: Support sustainable education
 blurb:
     heading: Why Frantomapa?
-    text: "Frantomapa is a school for everyone who believes that greateducation shouldn't just taste good, it should do good too. We source all of our instructors directly from small scale sustainable school and make sure part of the profits are reinvested in their communities."
+    text: "Frantomapa is a school for everyone who believes that great education shouldn't just taste good, it should do good too. We source all of our instructors directly from small scale sustainable school and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
