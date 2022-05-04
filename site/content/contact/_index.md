@@ -14,7 +14,7 @@ is valuable for us.
 
 Hey, thanks for visiting this website.
 
-<h2>Frantomapa Education Aid</h2>
+title: "Frantomapa Education Aid"
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
