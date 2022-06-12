@@ -18,5 +18,6 @@ products:
 values:
     heading: Our mission and vision
     text: "To give needy children the opportunity to be educated and to help raise the standard of STEM education in Ghana."
+    text: "To produce critical thinkers and innovators that would technology to solve challenges facing the world."
 ---
 
