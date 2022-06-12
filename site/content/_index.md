@@ -1,7 +1,7 @@
 ---
 title: "Frantomapa Educational Aid"
 subtitle: Support sustainable education
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron2.jpg
 blurb:
     heading: Why Frantomapa?
     text: "Frantomapa is a school for everyone who believes that great education shouldn't just taste good, it should do good too." 
