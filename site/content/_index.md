@@ -9,7 +9,7 @@ blurb:
     and principal place of business of the Frantomapa Educational Aid is in Accra."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "The Frantomapa Educational Aid which seeks to promote Sustainable Development Goal 4 (SDG4) Thus; Quality Education and by it’s regulations, it’s required         to carry on the business of:"
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
