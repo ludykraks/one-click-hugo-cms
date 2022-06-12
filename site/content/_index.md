@@ -3,7 +3,7 @@ title: "Frantomapa Educational Aid"
 subtitle: Support sustainable education
 blurb:
     heading: Why Frantomapa?
-    text: "Frantomapa is a school for everyone who believes that great education shouldn't just taste good, it should do good too. 
+    text: "Frantomapa is a school for everyone who believes that great education shouldn't just taste good, it should do good too." 
     heading: "What we offer"
     text: "Frantomapa Educational Aid is a non -governmental agency formed in Ghana on the 8th of May, 2016. The registered office 
     and principal place of business of the Frantomapa Educational Aid is in Accra."
