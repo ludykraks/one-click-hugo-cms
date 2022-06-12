@@ -3,10 +3,10 @@ title: "Frantomapa Educational Aid"
 subtitle: Support sustainable education
 blurb:
     heading: Why Frantomapa?
-    text: "Frantomapa is a school for everyone who believes that great education shouldn't just taste good, it should do good too. We source all of our instructors directly from small scale sustainable school and make sure part of the profits are reinvested in their communities."
-intro:
+    text: "Frantomapa is a school for everyone who believes that great education shouldn't just taste good, it should do good too. 
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Frantomapa Educational Aid is a non -governmental agency formed in Ghana on the 8th of May, 2016. The registered office 
+    and principal place of business of the Frantomapa Educational Aid is in Accra."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
