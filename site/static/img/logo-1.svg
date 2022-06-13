@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:figma="http://www.figma.com/figma/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 132 24"
+	 style="enable-background:new 0 0 132 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF4400;}
+	.st1{fill:#EC1E27;}
+	.st2{font-family:'Roboto-Medium';}
+	.st3{font-size:15.7315px;}
+</style>
+<g>
+	<path id="b" class="st0" d="M-78.5-7.8c0.3,0.3,0.1,0.8-0.4,0.8h-5.9c-0.3,0-0.6-0.1-0.7-0.3l-9.4-10.5v10.4c0,0.3-0.2,0.5-0.5,0.5
+		h-5.3c-0.3,0-0.5-0.2-0.5-0.5v-23c0-0.3,0.2-0.5,0.5-0.5h5.3c0.3,0,0.5,0.2,0.5,0.5v9.8l9.1-10c0.2-0.2,0.5-0.3,0.7-0.3h5.8
+		c0.4,0,0.7,0.5,0.4,0.8l-9.9,10.6L-78.5-7.8L-78.5-7.8z"/>
+</g>
+<g>
+	<path id="c" class="st0" d="M-55.2-7c-0.2,0-0.4-0.1-0.5-0.3l-2-4.7h-10.7l-2,4.7C-70.5-7.1-70.6-7-70.8-7h-5.2
+		c-0.4,0-0.6-0.4-0.5-0.7l10.8-23c0.1-0.2,0.3-0.3,0.5-0.3h4.4c0.2,0,0.4,0.1,0.5,0.3l10.8,23c0.2,0.3-0.1,0.7-0.5,0.7
+		C-50.1-7-55.2-7-55.2-7z M-66.3-16.6h6.6l-3.3-7.7L-66.3-16.6L-66.3-16.6z"/>
+</g>
+<g>
+	<path id="d" class="st0" d="M-45.7-7c-0.3,0-0.5-0.2-0.5-0.5v-23c0-0.3,0.2-0.5,0.5-0.5h5.3c0.3,0,0.5,0.2,0.5,0.5V-12h9.8
+		c0.3,0,0.5,0.2,0.5,0.5v4.1c0,0.3-0.2,0.5-0.5,0.5H-45.7z"/>
+</g>
+<g>
+	<path id="e" class="st0" d="M-25.9-30.5c0-0.3,0.2-0.5,0.5-0.5h9.3c2.7,0,5,0.5,6.9,1.4c1.9,1,3.4,2.3,4.4,4.2
+		c1,1.8,1.5,3.9,1.5,6.4c0,2.5-0.5,4.7-1.5,6.5c-1,1.8-2.5,3.2-4.4,4.1c-1.9,1-4.2,1.4-6.9,1.4h-9.3c-0.3,0-0.5-0.2-0.5-0.5V-30.5z
+		 M-16.5-12c2.4,0,4.1-0.6,5.3-1.7s1.7-2.9,1.7-5.2c0-2.3-0.6-4.1-1.7-5.2c-1.2-1.2-2.9-1.7-5.3-1.7h-3.1V-12H-16.5z"/>
+</g>
+<g>
+	<path id="f" class="st0" d="M1.7-7C1.4-7,1.2-7.2,1.2-7.5v-23c0-0.3,0.2-0.5,0.5-0.5H7c0.3,0,0.5,0.2,0.5,0.5v23C7.5-7.2,7.3-7,7-7
+		H1.7z"/>
+</g>
+<text transform="matrix(1 0 0 1 -4.4604 -38.1267)" style="font-family:'MyriadPro-Regular'; font-size:12px;">Lorem ipsum</text>
+<text transform="matrix(1.0478 0 0 1 22.4424 18.125)" class="st1 st2 st3">FRANTOMAPA</text>
+<image style="overflow:visible;" width="509" height="511" xlink:href="F:\Clients\Frantomapa\Frantomapa Resources-2\ftm-no-bg.png"  transform="matrix(0.2393 0 0 0.2393 1183.8186 -52.7674)">
+</image>
+</svg>
