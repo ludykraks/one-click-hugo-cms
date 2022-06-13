@@ -17,6 +17,8 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: Our mission and vision
-    text: "To give needy children the opportunity to be educated and to help raise the standard of STEM education in Ghana. Our vision is to produce critical thinkers and innovators that would technology to solve challenges facing the world"
+    text: "To give needy children the opportunity to be educated and to help raise the standard of STEM education in Ghana. 
+    
+    Our vision is to produce critical thinkers and innovators that would technology to solve challenges facing the world"
 ---
 
