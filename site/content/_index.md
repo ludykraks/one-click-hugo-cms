@@ -1,6 +1,6 @@
 ---
 title: "Frantomapa Educational Aid"
-subtitle: Support sustainable education
+subtitle: Nurturing Critical Thinkers and Innovators
 image: /img/home-jumbotron2.jpg
 blurb:
     heading: Why Frantomapa?
@@ -12,9 +12,9 @@ products:
     - image: img/illustrations-coffee.svg
       text: "The Frantomapa Educational Aid which seeks to promote Sustainable Development Goal 4 (SDG4) Thus; Quality Education and by it’s regulations, it’s required         to carry on the business of:"
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "The Frantomapa Educational Aid which seeks to promote Sustainable Development Goal 4 (SDG4) Thus; Quality Education and by it’s regulations, it’s required         to carry on the business of:"
     - image: /img/home-jumbotron-mini1.jpg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "The Frantomapa Educational Aid which seeks to promote Sustainable Development Goal 4 (SDG4) Thus; Quality Education and by it’s regulations, it’s required         to carry on the business of:"
 values:
     heading: Our mission and vision
     text: "To give needy children the opportunity to be educated and to help raise the standard of STEM education in Ghana. 
